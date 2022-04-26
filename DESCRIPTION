@@ -1,0 +1,13 @@
+Package: porcelainporcupines
+Type: Package
+Title: Indie Rock Album Cover Color Palette Generator
+Version: 0.1.0
+Author: Breann Abernathy
+Maintainer: Breann Abernathy <abern041@umn.edu>
+Description: indie rock album cover (glass animals, hippo campus, loser magnet) inspired color palettes
+    package named by Calvin Spitzer
+License: UMN
+Encoding: UTF-8
+LazyData: true
+Suggets: ggplot
+URL: https://github.com/abern041/porcelain-porcupine
