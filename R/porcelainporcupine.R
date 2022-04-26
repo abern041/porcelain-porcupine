@@ -10,7 +10,7 @@ porcelain_porcupines <- list(
   Landmark = c("#A0584D", "#91ADC5", "#E3AD58", "#5A5A5C", "#B9A38F", "#3E5D40"),
   Bambi = c("#E7B7AC", "#161613", "#ECA268", "#232D51", "#BC596B", "#007D98"),
   LP3 = c("#F0E1E0", "#604CAC", "#161613", "#D9D9D9"),
-  Loser = c("#B7A388", "#BBAFA7", "#8DC1DE", "#080000")
+  Loser = c("#B7A388", "#8DC1DE", "#BBAFA7", "#080000")
 )
 
 porcelain_porcupine <- function(name, n, type = c("discrete", "continuous")) {
