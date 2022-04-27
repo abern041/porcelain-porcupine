@@ -50,11 +50,11 @@ porcelain_porcupine("GA1")
 
 ![GA1](https://user-images.githubusercontent.com/55102014/165415841-317155d1-281f-4e96-b85e-be1286d82698.jpg)
 
+### Hippo Campus
+
 ``` r
 porcelain_porcupine("WarmGlow")
 ```
-
-### Hippo Campus
 
 ![WarmGlow](https://user-images.githubusercontent.com/55102014/165415900-634776c8-ae43-4693-af08-a632df1a6cef.jpg)
 
