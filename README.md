@@ -1,4 +1,4 @@
-# porcelain-porcupines
+# porcelainporcupines
 # Installation
 
 porcelain_porcupine("Dreamland")
