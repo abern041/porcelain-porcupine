@@ -88,4 +88,7 @@ porcelain_porcupine("Loser")
 Examples of use
 -----
 
-
+``` r
+ggplot(mpg, aes(displ, hwy, colour = class)) + 
++     geom_point() + scale_color_manual(values = porcelain_porcupine("GA1")) + theme_bw()
+```
