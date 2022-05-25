@@ -92,3 +92,6 @@ Examples of use
 ggplot(mpg, aes(displ, hwy, colour = class)) + 
 +     geom_point() + scale_color_manual(values = porcelain_porcupine("GA1")) + theme_bw()
 ```
+![mtcars_GA1.pdf](https://github.com/abern041/porcelainporcupines/files/8766975/mtcars_GA1.pdf)
+
+
