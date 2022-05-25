@@ -95,4 +95,13 @@ ggplot(mpg, aes(displ, hwy, colour = class)) +
 
 ![mtcars_GA1](https://user-images.githubusercontent.com/55102014/170151988-afec9def-27b9-42ca-b2da-84d70386ffb6.jpg)
 
+``` r
+df2 <- data.frame(supp=rep(c("VC", "OJ"), each=3),
+                  dose=rep(c("D0.5", "D1", "D2"),2),
+                  len=c(6.8, 15, 33, 4.2, 10, 29.5))
+ggplot(data=df2, aes(x=dose, y=len, fill=supp)) +
+  geom_bar(stat="identity") + scale_fill_manual(values = porcelain_porcupine("LP3")) + theme_bw()
+```
+![juice_LP3](https://user-images.githubusercontent.com/55102014/170153047-0221f1c8-bc8d-4c37-8282-f323ee57134f.jpg)
+
 
